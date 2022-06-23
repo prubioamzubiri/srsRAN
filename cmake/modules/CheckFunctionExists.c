@@ -17,6 +17,7 @@
  * the LICENSE file in the top-level directory of this distribution
  * and at http://www.gnu.org/licenses/.
  *
+ *
  */
 
 #ifdef CHECK_FUNCTION_EXISTS
